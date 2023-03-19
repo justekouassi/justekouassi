@@ -14,8 +14,6 @@
 ### Some stats
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=justekouassi&show_icons=true&theme=merko&count_private=true" alt="justekouassi's github stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justekouassi&theme=merko&count_private=true&layout=compact&langs_count=10" alt="justekouassi's github top languages" />
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=justekouassi&show_icons=true&theme=merko&count_private=true" />
-
-</br>
-
-<img height="180em" width="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justekouassi&theme=merko&count_private=true&layout=compact&langs_count=10" alt="justekouassi's github top languages" />
