@@ -18,4 +18,4 @@
 
 </br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justekouassi&theme=merko&count_private=true&layout=compact&langs_count=10" alt="justekouassi's github top languages" />
+<img height="180em" width="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justekouassi&theme=merko&count_private=true&layout=compact&langs_count=10" alt="justekouassi's github top languages" />
