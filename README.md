@@ -20,7 +20,7 @@ src="https://img.shields.io/github/followers/justekouassi?logo=github&theme=merk
 
 <a href="https://github.com/justekouassi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=justekouassi&show_icons=true&theme=merko&count_private=true" alt="justekouassi's github stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justekouassi&theme=merko&count_private=true&layout=compact" alt="justekouassi's github top languages" />
+  <img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justekouassi&theme=merko&count_private=true&layout=compact" alt="justekouassi's github top languages" />
 </a>
 
 </br>
