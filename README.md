@@ -13,18 +13,11 @@
 
 ### Some stats
 
-<!--
-<a href="https://www.github.com/justekouassi" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/justekouassi?logo=github&theme=merko" /></a>
--->
-
 <a href="https://github.com/justekouassi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=justekouassi&show_icons=true&theme=merko&count_private=true" alt="justekouassi's github stats" />
-  <img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justekouassi&theme=merko&count_private=true&layout=compact" alt="justekouassi's github top languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justekouassi&theme=merko&count_private=true&layout=compact&langs_count=10" alt="justekouassi's github top languages" />
 </a>
 
 </br>
 
 <a href="https://github.com/justekouassi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=justekouassi&show_icons=true&theme=merko&count_private=true" /></a>
-
-<a href="https://github.com/justekouassi"><img src="https://activity-graph.herokuapp.com/graph?username=justekouassi&bg_color=111111&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&custom_title=GitHub%20Commits%20Graph" alt="Juste Kouassi's GitHub Commits Graph" /></a>
