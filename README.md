@@ -13,11 +13,9 @@
 
 ### Some stats
 
-<a href="https://github.com/justekouassi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=justekouassi&show_icons=true&theme=merko&count_private=true" alt="justekouassi's github stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justekouassi&theme=merko&count_private=true&layout=compact&langs_count=10" alt="justekouassi's github top languages" />
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=justekouassi&show_icons=true&theme=merko&count_private=true" alt="justekouassi's github stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=justekouassi&show_icons=true&theme=merko&count_private=true" />
 
 </br>
 
-<a href="https://github.com/justekouassi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=justekouassi&show_icons=true&theme=merko&count_private=true" /></a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justekouassi&theme=merko&count_private=true&layout=compact&langs_count=10" alt="justekouassi's github top languages" />
