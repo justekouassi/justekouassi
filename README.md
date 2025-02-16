@@ -59,11 +59,12 @@
   </a>
 </p>
 
-## STATS 
+## Stats
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justekouassi&theme=gotham&layout=compact"width="40%"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justekouassi&theme=merko&count_private=true&layout=compact&hide=html,css" width="40%"/> 
 </p>
 
 <p align="center">
-<a href="https://github.com/justekouassi?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=justekouassi&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@justekouassi's github-readme-stats"/></a>
+<a href="https://github.com/justekouassi?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=justekouassi&theme=merko&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="@justekouassi's github-readme-stats"/></a>
 </p>
